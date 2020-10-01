@@ -5,6 +5,7 @@
 [![](https://raw.githubusercontent.com/avinash-mishra/avinash-mishra/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=avinash-mishra&color=green)
+- [![linkedin badge](https://img.shields.io/badge/linkedin-avinash--mishra--a0846360-green?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/avinash-mishra-a0846360/)
 
 
 <!--
