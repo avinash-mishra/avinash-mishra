@@ -6,7 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=avinash-mishra&color=green)
 [![linkedin badge](https://img.shields.io/badge/linkedin-avinash--mishra--a0846360-green?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/avinash-mishra-a0846360/)
-[![blog badge](https://img.shields.io/badge/stackoverflow-avinash--2737885-green?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/2737885/avinash?tab=profile)
+[![stackoverflow badge](https://img.shields.io/badge/stackoverflow-avinash--2737885-green?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/2737885/avinash?tab=profile)
+[![hackerrank badge](https://img.shields.io/badge/hackerrank-avinash__mishra02-green?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/leaderboard?page=1&track=java&type=practice)
 
 
 <!--
